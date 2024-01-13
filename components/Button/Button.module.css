@@ -1,0 +1,12 @@
+.defaultButton {
+    width: 270px;
+    height: 32px;
+    background-color: var(--blue-one);
+    border: none;
+    font-size: 14px;
+    font-weight: 550;
+    color: var(--background);
+    border-radius: 8px;
+    margin-top: 8px;
+  }
+  

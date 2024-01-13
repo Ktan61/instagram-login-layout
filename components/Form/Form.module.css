@@ -1,0 +1,12 @@
+.usernameInput {
+    width: 260px;
+    height: 35px;
+    background-color: var(--grey-form-background);
+    color: var(--grey-form-text);
+    border: 1px var(--grey-container) solid;
+    border-radius: 2px;
+    font-size: 12px;
+    padding-left: 10px;
+}
+
+
